@@ -330,6 +330,10 @@ body.dark-theme {
   gap: 2.5rem;
 }
 
+.iconify {
+  font-size: xx-large;
+}
+
 .app__data {
   text-align: center;
 }
