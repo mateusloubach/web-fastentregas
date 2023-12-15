@@ -1,4 +1,5 @@
 # Responsive Website Delivery 🚚
+[![Netlify Status](https://api.netlify.com/api/v1/badges/12d17eec-933b-4603-bd19-90918aa79666/deploy-status)](https://app.netlify.com/sites/fastentregas/deploys)
 ## [Watch it on youtube](https://youtu.be/xOQU3YNHxJc)
 ### Responsive Website Delivery
 
